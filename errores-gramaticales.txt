@@ -1,0 +1,5 @@
+Errores gramaticáles:
+En el branch fronten : panaderia.txt los nombres no tienen mayúsculas al iniciar el texto 
+                       pantalla.txt los nombres no tienen mayúsculas al iniciar el texto 
+En el branch backend : opciones.txt los nombres no tienen mayúsculas al iniciar el texto  y la palabra "noombre" esta mal escrita, es "nombre" 
+                       readme.txt los nombres no tienen mayúsculas al iniciar el texto y la frase "debenrejistrarse" esta mal escrita, es "deben registrarse"
