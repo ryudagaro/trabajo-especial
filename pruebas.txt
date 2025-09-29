@@ -1,0 +1,5 @@
+Tener boton de busqueda
+Poder ver de forma responsiva la pagina web
+chequear el boton de enviar mensajes mediante la web para una asistente
+Sistema de scroll
+Clickear imagenes y/o logos y que te dirija a un lugar en particular de a pagina
